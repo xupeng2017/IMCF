@@ -1,5 +1,5 @@
 # IMCF
-#Store the R code for IMCF project
+#R code for IMCF project
 IMCF(Influence of MiRNAs on Cell Fate genes)
 
 #input miRNAs expression matrix(Liver_miRNAraw1), file about the groups of each sample(Liver_group)
