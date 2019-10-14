@@ -1,6 +1,6 @@
 # IMCF
 ## Introduction
-* IMCF is Influence of MiRNAs on Cell Fate genes, which is computed based on shortest path method on the cell fate gene regulatory network.
+* IMCF is the Influence of MiRNAs on Cell Fate genes, which is computed based on shortest path method .
 ## Overview of the IMCF pipelines service
 * #Step 1: compute the FC of miRNAs in cancer versus that in normal samples;
   * #Liver_miRNAraw1 is miRNAs the expression matrix;
